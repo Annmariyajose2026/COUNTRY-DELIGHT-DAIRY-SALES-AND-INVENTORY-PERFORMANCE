@@ -55,4 +55,7 @@ Identify high-demand and low-demand locations for targeted expansion.
 
 Track revenue trends over time (monthly).
 
-Detect growth patterns, seasonal variations, and anomalies
+Detect growth patterns, seasonal variations, and anomalies.
+
+**Dataset**
+https://www.kaggle.com/datasets/shrutithakur13/dairy-sales-and-inventory-data
